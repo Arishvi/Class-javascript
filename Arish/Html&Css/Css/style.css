@@ -1,0 +1,14 @@
+body{
+
+    font-size: 2rem;
+}
+
+ol li{
+text-align: end;
+    background-color: blanchedalmond;
+}
+
+li{
+  display:inline-block
+
+}
